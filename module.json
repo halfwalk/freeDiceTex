@@ -23,5 +23,7 @@
 	],
 	"scripts": [
 		"scripts/freeDiceTex.js"
-	]
+	],
+	"url": "https://github.com/halfwalk/freeDiceTex",
+	"manifest": "https://raw.githubusercontent.com/halfwalk/freeDiceTex/main/module.json"
 }
