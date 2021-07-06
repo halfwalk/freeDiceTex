@@ -1,0 +1,27 @@
+ {
+    "name": "freeDiceTex",
+    "title": "Free Dice Textures ",
+    "description": "Some additional textures for dice, using CC0 textures.",
+    "version": "0.1",
+	"author": "MidnightRabite",
+	"authors": [
+		{
+			"name":"MidnightRabite",
+			"url": "https://discord.com/users/843922460902162453"
+		}
+	],
+	"minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "0.8.8",
+	"dependencies": [
+			{
+			  "name": "dice-so-nice",
+			  "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/raw/master/module/module.json"
+			}
+	],
+	"styles": [
+		"dicestyle.css"
+	],
+	"scripts": [
+		"scripts/freeDiceTex.js"
+	]
+}
